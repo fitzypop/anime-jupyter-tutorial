@@ -1,0 +1,7 @@
+# DO NOT INCLUDE RAW CSV FILES IN REPO
+**.csv
+**.zip
+data/**.zip
+data/**.csv
+
+.ipynb_checkpoints**
