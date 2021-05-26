@@ -1,9 +1,9 @@
 # DO NOT INCLUDE RAW CSV FILES IN REPO
 **/**.csv
 **/**.zip
-data/**
+.vscode/settings.json
 !data/README.md
-.vscode/**
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
