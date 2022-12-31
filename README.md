@@ -1,4 +1,4 @@
-# Anime Python Repo
+# Anime Jupyter Notebook Repo
 
 I thought it would be fun to use python to process and play with anime data.
 
